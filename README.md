@@ -1,2 +1,2 @@
 # Competitive-Coding-Questions
-Some of the quality questions 
+These are some of the quality quetions which I found helpful.I have also uploaded some of codeforces rounds questions solutions
